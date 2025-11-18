@@ -1,0 +1,2 @@
+1. mkdir examenSanRoman
+    mkdir examenSanRoman/prog examenSanRoman/si examenSanRoman/bbdd
