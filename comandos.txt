@@ -10,3 +10,5 @@
 5. cd si/git/
 
 6. touch ../../login.sql
+
+7. rm ../../bbdd/consultas.sql
