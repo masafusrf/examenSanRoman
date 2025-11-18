@@ -1,2 +1,4 @@
 1. mkdir examenSanRoman
     mkdir examenSanRoman/prog examenSanRoman/si examenSanRoman/bbdd
+
+2. cd examenSanRoman/ && touch prog/index.php
