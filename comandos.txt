@@ -8,3 +8,5 @@
 4. cd ../ && mkdir si/git
 
 5. cd si/git/
+
+6. touch ../../login.sql
