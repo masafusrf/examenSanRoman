@@ -6,3 +6,5 @@
 3. cd si && cp ../prog/index.php ../bbdd/consultas.sql
 
 4. cd ../ && mkdir si/git
+
+5. cd si/git/
