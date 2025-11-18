@@ -2,3 +2,5 @@
     mkdir examenSanRoman/prog examenSanRoman/si examenSanRoman/bbdd
 
 2. cd examenSanRoman/ && touch prog/index.php
+
+3. cd si && cp ../prog/index.php ../bbdd/consultas.sql
